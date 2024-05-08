@@ -153,7 +153,7 @@
     "node-loader": "^2.0.0",
     "path-browserify": "^1.0.1",
     "playwright": "^1.21.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.32",
     "postcss-loader": "^6.2.1",
     "postcss-preset-env": "^7.4.3",
     "raw-loader": "^4.0.2",
